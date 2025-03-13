@@ -1,0 +1,34 @@
+[
+    {
+        "Audit": null,
+        "Cmd": null,
+        "CreateTime": "2024-11-12T11:26:24+00:00",
+        "ExitTime": null,
+        "Handles": null,
+        "ImageFileName": "rundll32.exe",
+        "Offset(V)": null,
+        "PID": 59986,
+        "PPID": 0,
+        "Path": "E:\\Documents\\Pictures\\Music\\Program Files\\rundll32.exe",
+        "SessionId": 7,
+        "Threads": 1,
+        "Wow64": false,
+        "__children": []
+    },
+	{
+		"Audit": null,
+		"Cmd": "culture2.jpg",
+		"CreateTime": "2024-10-22T01:06:06+00:00",
+		"ExitTime": null,
+		"Handles": null,
+		"ImageFileName": "culture2.jpg",
+		"Offset(V)": null,
+		"PID": 6464,
+		"PPID": 14505,
+		"Path": "F:\\Program Files\\Windows\\culture2.jpg",
+		"SessionId": 9,
+		"Threads": 18,
+		"Wow64": false,
+		"__children": []
+	}
+]

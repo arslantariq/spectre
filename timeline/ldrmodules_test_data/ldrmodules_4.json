@@ -1,0 +1,29 @@
+[
+    {
+        "Base": 7774806,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\chrome.exe",
+        "Pid": 3138,
+        "Process": "chrome.exe"
+    },
+    {
+        "Base": 3849928,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\chrome.exe",
+        "Pid": 1803,
+        "Process": "chrome.exe"
+    },
+    {
+        "Base": 7482469,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\\\Windows\\\\System32\\\\csrss.exe",
+        "Pid": 3177,
+        "Process": "csrss.exe"
+    }
+]

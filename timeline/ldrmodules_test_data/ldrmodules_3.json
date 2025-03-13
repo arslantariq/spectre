@@ -1,0 +1,29 @@
+[
+    {
+        "Base": 2128847,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\\\Windows\\\\System32\\\\explorer.exe",
+        "Pid": 4146,
+        "Process": "explorer.exe"
+    },
+    {
+        "Base": 1254113,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\\\Windows\\\\System32\\\\explorer.exe",
+        "Pid": 2015,
+        "Process": "explorer.exe"
+    },
+    {
+        "Base": 2095489,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\cmd.exe",
+        "Pid": 3224,
+        "Process": "cmd.exe"
+    }
+]

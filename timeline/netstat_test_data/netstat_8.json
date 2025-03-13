@@ -1,0 +1,41 @@
+[
+    {
+        "Created": "2024-10-18T11:33:40.228183+00:00",
+        "ForeignAddr": "192.168.1.71",
+        "ForeignPort": 12350,
+        "LocalAddr": "10.0.2.152",
+        "LocalPort": 10020,
+        "Offset": 607653375388587,
+        "Owner": "csrss.exe",
+        "PID": 428,
+        "Proto": "TCPv4",
+        "State": "LISTENING",
+        "__children": []
+    },
+    {
+        "Created": "2024-09-27T19:53:40.228183+00:00",
+        "ForeignAddr": "192.168.1.93",
+        "ForeignPort": 49866,
+        "LocalAddr": "10.0.2.22",
+        "LocalPort": 11054,
+        "Offset": 447901709101746,
+        "Owner": "chrome.exe",
+        "PID": 4249,
+        "Proto": "TCPv6",
+        "State": "CLOSE_WAIT",
+        "__children": []
+    },
+    {
+        "Created": "2024-09-18T22:41:40.228183+00:00",
+        "ForeignAddr": "192.168.1.72",
+        "ForeignPort": 49139,
+        "LocalAddr": "10.0.2.234",
+        "LocalPort": 31124,
+        "Offset": 187713046805429,
+        "Owner": "explorer.exe",
+        "PID": 1165,
+        "Proto": "TCPv4",
+        "State": "ESTABLISHED",
+        "__children": []
+    }
+]

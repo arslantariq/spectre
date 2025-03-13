@@ -1,0 +1,102 @@
+[
+    {
+        "Data": "",
+        "Hive Offset": 445857168666722,
+        "Key": "/need/on/modern/group.webm",
+        "Last Write Time": "2022-09-28T10:33:00+00:00",
+        "Name": "QUALITY",
+        "Type": "REG_DWORD",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "",
+        "Hive Offset": 409778730058822,
+        "Key": "/put/sister.gif",
+        "Last Write Time": "2022-05-09T17:49:38+00:00",
+        "Name": "INFORMATION",
+        "Type": "REG_SZ",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "",
+        "Hive Offset": 118690701638425,
+        "Key": "/above/several/part/their.mp3",
+        "Last Write Time": "2024-07-31T07:27:41+00:00",
+        "Name": "INCLUDING",
+        "Type": "User",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "",
+        "Hive Offset": 905482799678826,
+        "Key": "/before/conference.numbers",
+        "Last Write Time": "2024-02-17T01:32:30+00:00",
+        "Name": "WHEN",
+        "Type": "Key",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "",
+        "Hive Offset": 249654242411891,
+        "Key": "/next/company/establish/form.pdf",
+        "Last Write Time": "2021-12-05T02:19:04+00:00",
+        "Name": "ARRIVE",
+        "Type": "REG_SZ",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "",
+        "Hive Offset": 266241419820155,
+        "Key": "/citizen/seem/require.csv",
+        "Last Write Time": "2020-07-10T09:32:33+00:00",
+        "Name": "PART",
+        "Type": "REG_SZ",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "",
+        "Hive Offset": 886806051162993,
+        "Key": "/about/skill.jpg",
+        "Last Write Time": "2022-05-27T22:59:31+00:00",
+        "Name": "PHYSICAL",
+        "Type": "Key",
+        "Volatile": false,
+        "__children": []
+    },
+    {
+        "Data": "",
+        "Hive Offset": 125652133204011,
+        "Key": "/prove/police.html",
+        "Last Write Time": "2020-09-02T23:42:30+00:00",
+        "Name": "FACTOR",
+        "Type": "REG_SZ",
+        "Volatile": false,
+        "__children": []
+    },
+    {
+        "Data": "",
+        "Hive Offset": 564468225866806,
+        "Key": "/go/pretty.odp",
+        "Last Write Time": "2022-08-24T09:14:06+00:00",
+        "Name": "MANAGER",
+        "Type": "REG_DWORD",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "",
+        "Hive Offset": 773221099496431,
+        "Key": "/form/suggest/pretty.ods",
+        "Last Write Time": "2021-10-14T08:32:18+00:00",
+        "Name": "MANAGER",
+        "Type": "REG_DWORD",
+        "Volatile": true,
+        "__children": []
+    }
+]

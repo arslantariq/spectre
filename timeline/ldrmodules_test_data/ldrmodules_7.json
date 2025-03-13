@@ -1,0 +1,29 @@
+[
+    {
+        "Base": 5185596,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\\\Windows\\\\System32\\\\smss.exe",
+        "Pid": 4440,
+        "Process": "smss.exe"
+    },
+    {
+        "Base": 7865752,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\smss.exe",
+        "Pid": 4086,
+        "Process": "smss.exe"
+    },
+    {
+        "Base": 4056988,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\\\Windows\\\\System32\\\\cmd.exe",
+        "Pid": 4967,
+        "Process": "cmd.exe"
+    }
+]

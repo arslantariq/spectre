@@ -1,0 +1,67 @@
+[
+    {
+        "Created": "2024-09-18T17:03:40.224229+00:00",
+        "ForeignAddr": "192.168.1.30",
+        "ForeignPort": 37974,
+        "LocalAddr": "10.0.2.121",
+        "LocalPort": 21224,
+        "Offset": 627581795028933,
+        "Owner": "csrss.exe",
+        "PID": 442,
+        "Proto": "UDP",
+        "State": "LISTENING",
+        "__children": []
+    },
+    {
+        "Created": "2024-10-16T13:11:40.224229+00:00",
+        "ForeignAddr": "192.168.1.65",
+        "ForeignPort": 57520,
+        "LocalAddr": "10.0.2.121",
+        "LocalPort": 52615,
+        "Offset": 644573856251691,
+        "Owner": "cmd.exe",
+        "PID": 925,
+        "Proto": "TCPv4",
+        "State": "CLOSE_WAIT",
+        "__children": []
+    },
+    {
+        "Created": "2024-10-05T16:15:40.224229+00:00",
+        "ForeignAddr": "192.168.1.222",
+        "ForeignPort": 18090,
+        "LocalAddr": "10.0.2.86",
+        "LocalPort": 7779,
+        "Offset": 613773945933296,
+        "Owner": "explorer.exe",
+        "PID": 1858,
+        "Proto": "TCPv4",
+        "State": "ESTABLISHED",
+        "__children": []
+    },
+    {
+        "Created": "2024-10-02T01:21:40.224229+00:00",
+        "ForeignAddr": "192.168.1.4",
+        "ForeignPort": 36413,
+        "LocalAddr": "10.0.2.31",
+        "LocalPort": 26509,
+        "Offset": 171222093846969,
+        "Owner": "smss.exe",
+        "PID": 3897,
+        "Proto": "TCPv6",
+        "State": "ESTABLISHED",
+        "__children": []
+    },
+    {
+        "Created": "2024-09-20T17:29:40.224229+00:00",
+        "ForeignAddr": "192.168.1.28",
+        "ForeignPort": 16558,
+        "LocalAddr": "10.0.2.48",
+        "LocalPort": 28666,
+        "Offset": 217319953367966,
+        "Owner": "explorer.exe",
+        "PID": 946,
+        "Proto": "UDP",
+        "State": "LISTENING",
+        "__children": []
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "Created": "2024-10-12T09:14:40.229180+00:00",
+        "ForeignAddr": "192.168.1.72",
+        "ForeignPort": 16707,
+        "LocalAddr": "10.0.2.95",
+        "LocalPort": 55972,
+        "Offset": 189972743196825,
+        "Owner": "cmd.exe",
+        "PID": 2694,
+        "Proto": "TCPv4",
+        "State": "CLOSE_WAIT",
+        "__children": []
+    },
+    {
+        "Created": "2024-09-29T23:54:40.229180+00:00",
+        "ForeignAddr": "192.168.1.119",
+        "ForeignPort": 20894,
+        "LocalAddr": "10.0.2.1",
+        "LocalPort": 13352,
+        "Offset": 722902824924179,
+        "Owner": "chrome.exe",
+        "PID": 4513,
+        "Proto": "TCPv4",
+        "State": "CLOSE_WAIT",
+        "__children": []
+    },
+    {
+        "Created": "2024-10-13T21:01:40.229180+00:00",
+        "ForeignAddr": "192.168.1.136",
+        "ForeignPort": 12125,
+        "LocalAddr": "10.0.2.186",
+        "LocalPort": 35756,
+        "Offset": 569805433637397,
+        "Owner": "smss.exe",
+        "PID": 4400,
+        "Proto": "UDP",
+        "State": "CLOSE_WAIT",
+        "__children": []
+    },
+    {
+        "Created": "2024-09-26T20:13:40.229180+00:00",
+        "ForeignAddr": "192.168.1.40",
+        "ForeignPort": 47138,
+        "LocalAddr": "10.0.2.133",
+        "LocalPort": 15337,
+        "Offset": 601941814558463,
+        "Owner": "csrss.exe",
+        "PID": 801,
+        "Proto": "UDP",
+        "State": "TIME_WAIT",
+        "__children": []
+    },
+    {
+        "Created": "2024-10-16T15:16:40.229180+00:00",
+        "ForeignAddr": "192.168.1.241",
+        "ForeignPort": 14865,
+        "LocalAddr": "10.0.2.171",
+        "LocalPort": 32688,
+        "Offset": 936075616973980,
+        "Owner": "csrss.exe",
+        "PID": 559,
+        "Proto": "TCPv4",
+        "State": "ESTABLISHED",
+        "__children": []
+    }
+]

@@ -1,0 +1,7602 @@
+[
+    {
+        "Base": 1154124684,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\nation2.dll",
+        "Pid": 42251,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1661126267,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\quality.dll",
+        "Pid": 42252,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3200713551,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\feeling.dll",
+        "Pid": 64958,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2634883628,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\meeting.dll",
+        "Pid": 27709,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1102965052,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\theory.dll",
+        "Pid": 25667,
+        "Process": "give.mp3",
+        "__children": []
+    },
+    {
+        "Base": 1945771609,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\draw.dll",
+        "Pid": 44814,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2684997741,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\indeed.dll",
+        "Pid": 32280,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2238310443,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\western.dll",
+        "Pid": 62549,
+        "Process": "public.wav",
+        "__children": []
+    },
+    {
+        "Base": 2617313603,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\concern.dll",
+        "Pid": 9252,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1670910688,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\your.dll",
+        "Pid": 15379,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1626798858,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\after.dll",
+        "Pid": 20107,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1611793231,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\significant.dll",
+        "Pid": 61822,
+        "Process": "number.bmp",
+        "__children": []
+    },
+    {
+        "Base": 1662486949,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\push.dll",
+        "Pid": 35409,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3597687455,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\goal.dll",
+        "Pid": 33124,
+        "Process": "artist.css",
+        "__children": []
+    },
+    {
+        "Base": 3525283827,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\camera.dll",
+        "Pid": 8303,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2360183360,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\effect.dll",
+        "Pid": 28716,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2464907320,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\purpose.dll",
+        "Pid": 3203,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2201383746,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\color.dll",
+        "Pid": 60234,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3711824633,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\resource.dll",
+        "Pid": 32599,
+        "Process": "south.jpg",
+        "__children": []
+    },
+    {
+        "Base": 3178026031,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\star.dll",
+        "Pid": 52415,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1992705429,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\figure.dll",
+        "Pid": 1983,
+        "Process": "they.odp",
+        "__children": []
+    },
+    {
+        "Base": 2621264488,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\hear.dll",
+        "Pid": 35458,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3281638797,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\think.dll",
+        "Pid": 62261,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2053428507,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\up.dll",
+        "Pid": 9937,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3964067526,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\several.dll",
+        "Pid": 23700,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1109425825,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\only.dll",
+        "Pid": 11786,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2010750227,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\though.dll",
+        "Pid": 29590,
+        "Process": "despite.webm",
+        "__children": []
+    },
+    {
+        "Base": 2996627348,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\thus.dll",
+        "Pid": 5735,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1275319180,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\move.dll",
+        "Pid": 60352,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3964326774,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\book.dll",
+        "Pid": 4937,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1832354218,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\high.dll",
+        "Pid": 19948,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3067826969,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\manager.dll",
+        "Pid": 59499,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2684483519,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\upon.dll",
+        "Pid": 54779,
+        "Process": "however.pdf",
+        "__children": []
+    },
+    {
+        "Base": 3598627073,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\song.dll",
+        "Pid": 31642,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3468991101,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\cold.dll",
+        "Pid": 6222,
+        "Process": "raise.mp4",
+        "__children": []
+    },
+    {
+        "Base": 2543981084,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\return.dll",
+        "Pid": 47404,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3158561778,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\ahead.dll",
+        "Pid": 6718,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2226998079,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\floor.dll",
+        "Pid": 51320,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3360239413,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\your.dll",
+        "Pid": 22507,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2959931867,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\hospital.dll",
+        "Pid": 46035,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1329814780,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\former.dll",
+        "Pid": 26799,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3692094235,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\property.dll",
+        "Pid": 47558,
+        "Process": "idea.ppt",
+        "__children": []
+    },
+    {
+        "Base": 3880622558,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\young.dll",
+        "Pid": 3454,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2136136405,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\paper.dll",
+        "Pid": 47897,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1413418894,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\easy.dll",
+        "Pid": 39192,
+        "Process": "different.html",
+        "__children": []
+    },
+    {
+        "Base": 1588875911,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\bag.dll",
+        "Pid": 50497,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3773284150,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\start.dll",
+        "Pid": 29063,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3838972595,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\student.dll",
+        "Pid": 19940,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2126827380,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\team.dll",
+        "Pid": 25533,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3566132173,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\over.dll",
+        "Pid": 13143,
+        "Process": "who.wav",
+        "__children": []
+    },
+    {
+        "Base": 2078761638,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\significant.dll",
+        "Pid": 23613,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3484811843,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\issue.dll",
+        "Pid": 28044,
+        "Process": "ten.html",
+        "__children": []
+    },
+    {
+        "Base": 1838873351,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\table.dll",
+        "Pid": 54249,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1136920882,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\a.dll",
+        "Pid": 54060,
+        "Process": "key.tiff",
+        "__children": []
+    },
+    {
+        "Base": 3396575258,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\service.dll",
+        "Pid": 26281,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2397665676,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\then.dll",
+        "Pid": 20680,
+        "Process": "for.ods",
+        "__children": []
+    },
+    {
+        "Base": 1316360809,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\my.dll",
+        "Pid": 13748,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1980637218,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\wait.dll",
+        "Pid": 34139,
+        "Process": "interview.wav",
+        "__children": []
+    },
+    {
+        "Base": 2595517988,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\range.dll",
+        "Pid": 46296,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2319524162,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\policy.dll",
+        "Pid": 38125,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1774473367,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\control.dll",
+        "Pid": 41745,
+        "Process": "hand.doc",
+        "__children": []
+    },
+    {
+        "Base": 1905063661,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\study.dll",
+        "Pid": 40212,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2306160143,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\will.dll",
+        "Pid": 43167,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3294203994,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\business.dll",
+        "Pid": 2073,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1945397096,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\important.dll",
+        "Pid": 16112,
+        "Process": "somebody.json",
+        "__children": []
+    },
+    {
+        "Base": 1734358454,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\energy.dll",
+        "Pid": 10366,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3346234343,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\ago.dll",
+        "Pid": 18966,
+        "Process": "build.wav",
+        "__children": []
+    },
+    {
+        "Base": 3756828479,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\lose.dll",
+        "Pid": 39972,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3100026952,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\argue.dll",
+        "Pid": 50783,
+        "Process": "forward.js",
+        "__children": []
+    },
+    {
+        "Base": 2393997476,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\eight.dll",
+        "Pid": 8791,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1782746580,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\community.dll",
+        "Pid": 35827,
+        "Process": "local.avi",
+        "__children": []
+    },
+    {
+        "Base": 3170330295,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\issue.dll",
+        "Pid": 7638,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2807488177,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\support.dll",
+        "Pid": 64013,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3910613608,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\college.dll",
+        "Pid": 15895,
+        "Process": "hot.png",
+        "__children": []
+    },
+    {
+        "Base": 1323830625,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\sister.dll",
+        "Pid": 34786,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2480826365,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\mission.dll",
+        "Pid": 60988,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1112981214,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\state.dll",
+        "Pid": 45335,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3946340137,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\herself.dll",
+        "Pid": 43754,
+        "Process": "follow.avi",
+        "__children": []
+    },
+    {
+        "Base": 3343799272,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\notice.dll",
+        "Pid": 37336,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2469044016,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\step.dll",
+        "Pid": 16545,
+        "Process": "soon.gif",
+        "__children": []
+    },
+    {
+        "Base": 2771518780,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\above.dll",
+        "Pid": 32859,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1639106715,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\door.dll",
+        "Pid": 47828,
+        "Process": "be.txt",
+        "__children": []
+    },
+    {
+        "Base": 1856006108,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\scientist.dll",
+        "Pid": 7011,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1547455505,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\them.dll",
+        "Pid": 9756,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3887066967,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\arm.dll",
+        "Pid": 60662,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3755560980,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\why.dll",
+        "Pid": 58767,
+        "Process": "next.bmp",
+        "__children": []
+    },
+    {
+        "Base": 3533426811,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\pattern.dll",
+        "Pid": 4884,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2259498687,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\prepare.dll",
+        "Pid": 29594,
+        "Process": "wall.json",
+        "__children": []
+    },
+    {
+        "Base": 1039595094,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\reach.dll",
+        "Pid": 56772,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1464995104,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\civil.dll",
+        "Pid": 54166,
+        "Process": "institution.flac",
+        "__children": []
+    },
+    {
+        "Base": 2906025068,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\structure.dll",
+        "Pid": 8928,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2812840664,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\could.dll",
+        "Pid": 38761,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2983959201,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\deep.dll",
+        "Pid": 57106,
+        "Process": "garden.wav",
+        "__children": []
+    },
+    {
+        "Base": 2435126274,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\lead.dll",
+        "Pid": 39403,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3265440051,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\certain.dll",
+        "Pid": 36082,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1818015208,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\pay.dll",
+        "Pid": 4682,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3611712048,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\sell.dll",
+        "Pid": 3099,
+        "Process": "even.html",
+        "__children": []
+    },
+    {
+        "Base": 1862652793,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\wait.dll",
+        "Pid": 19614,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2101901863,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\special.dll",
+        "Pid": 29130,
+        "Process": "west.bmp",
+        "__children": []
+    },
+    {
+        "Base": 2410844769,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\agent.dll",
+        "Pid": 38773,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3227285397,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\professional.dll",
+        "Pid": 24513,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2709810413,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\after.dll",
+        "Pid": 44224,
+        "Process": "appear.doc",
+        "__children": []
+    },
+    {
+        "Base": 1725919749,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\soldier.dll",
+        "Pid": 30247,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1978128867,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\smile.dll",
+        "Pid": 46320,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2455415221,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\health.dll",
+        "Pid": 63105,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1073223631,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\coach.dll",
+        "Pid": 20187,
+        "Process": "tax.txt",
+        "__children": []
+    },
+    {
+        "Base": 1175080332,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\teacher.dll",
+        "Pid": 60066,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1015243633,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\process.dll",
+        "Pid": 64662,
+        "Process": "try.xls",
+        "__children": []
+    },
+    {
+        "Base": 2951300583,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\say.dll",
+        "Pid": 53113,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1911547373,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\clear.dll",
+        "Pid": 61497,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3457086761,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\fact.dll",
+        "Pid": 1333,
+        "Process": "level.png",
+        "__children": []
+    },
+    {
+        "Base": 2889995385,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\election.dll",
+        "Pid": 56765,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2005327656,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\majority.dll",
+        "Pid": 49215,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3533373808,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\serve.dll",
+        "Pid": 9738,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2095115329,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\simply.dll",
+        "Pid": 13052,
+        "Process": "media.txt",
+        "__children": []
+    },
+    {
+        "Base": 1393153634,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\wrong.dll",
+        "Pid": 35707,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1036189470,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\firm.dll",
+        "Pid": 47706,
+        "Process": "recent.bmp",
+        "__children": []
+    },
+    {
+        "Base": 3042833983,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\report.dll",
+        "Pid": 5779,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3071363098,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\common.dll",
+        "Pid": 20856,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3621706571,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\buy.dll",
+        "Pid": 12641,
+        "Process": "drive.js",
+        "__children": []
+    },
+    {
+        "Base": 3054152175,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\whose.dll",
+        "Pid": 18547,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3023100312,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\key.dll",
+        "Pid": 7157,
+        "Process": "visit.wav",
+        "__children": []
+    },
+    {
+        "Base": 3770256096,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\least.dll",
+        "Pid": 4411,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2785018015,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\seek.dll",
+        "Pid": 31027,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2568215541,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\window.dll",
+        "Pid": 53548,
+        "Process": "question.csv",
+        "__children": []
+    },
+    {
+        "Base": 3893613550,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\grow.dll",
+        "Pid": 30522,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1829932291,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\capital.dll",
+        "Pid": 56065,
+        "Process": "agent.doc",
+        "__children": []
+    },
+    {
+        "Base": 1459614533,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\city.dll",
+        "Pid": 63604,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3675226280,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\agreement.dll",
+        "Pid": 57170,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1897938254,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\consider.dll",
+        "Pid": 56284,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2851068757,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\community.dll",
+        "Pid": 7249,
+        "Process": "give.wav",
+        "__children": []
+    },
+    {
+        "Base": 2133535075,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\huge.dll",
+        "Pid": 11085,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3886483103,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\example.dll",
+        "Pid": 33797,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2656452729,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\choose.dll",
+        "Pid": 22314,
+        "Process": "eat.wav",
+        "__children": []
+    },
+    {
+        "Base": 2978992119,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\head.dll",
+        "Pid": 10188,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1578695350,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\it.dll",
+        "Pid": 15298,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1091708633,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\south.dll",
+        "Pid": 23376,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3946687258,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\face.dll",
+        "Pid": 43794,
+        "Process": "assume.mov",
+        "__children": []
+    },
+    {
+        "Base": 2226880330,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\run.dll",
+        "Pid": 45060,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2217389046,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\interesting.dll",
+        "Pid": 15294,
+        "Process": "fire.xls",
+        "__children": []
+    },
+    {
+        "Base": 2643793468,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\trial.dll",
+        "Pid": 6890,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2297595835,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\tough.dll",
+        "Pid": 6459,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2711988596,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\task.dll",
+        "Pid": 11755,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2351433127,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\community.dll",
+        "Pid": 12901,
+        "Process": "past.mp4",
+        "__children": []
+    },
+    {
+        "Base": 1421603054,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\window.dll",
+        "Pid": 10405,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3436828258,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\account.dll",
+        "Pid": 56199,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3327478563,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\seat.dll",
+        "Pid": 54500,
+        "Process": "member.wav",
+        "__children": []
+    },
+    {
+        "Base": 1036781043,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\perform.dll",
+        "Pid": 59201,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3909254109,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\when.dll",
+        "Pid": 1439,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2893304781,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\girl.dll",
+        "Pid": 31865,
+        "Process": "consumer.jpeg",
+        "__children": []
+    },
+    {
+        "Base": 2674876335,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\play.dll",
+        "Pid": 3410,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2924620070,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\PM.dll",
+        "Pid": 57664,
+        "Process": "hot.mp3",
+        "__children": []
+    },
+    {
+        "Base": 1435607911,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\represent.dll",
+        "Pid": 28817,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2512637758,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\study.dll",
+        "Pid": 5719,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1895554783,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\question.dll",
+        "Pid": 20036,
+        "Process": "more.odt",
+        "__children": []
+    },
+    {
+        "Base": 3349704760,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\lose.dll",
+        "Pid": 62667,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3126492412,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\lot.dll",
+        "Pid": 47142,
+        "Process": "improve.tiff",
+        "__children": []
+    },
+    {
+        "Base": 3467786805,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\bar.dll",
+        "Pid": 32546,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3898343418,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\matter.dll",
+        "Pid": 15653,
+        "Process": "forward.html",
+        "__children": []
+    },
+    {
+        "Base": 1537935122,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\democratic.dll",
+        "Pid": 59906,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1691181984,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\law.dll",
+        "Pid": 9838,
+        "Process": "wonder.bmp",
+        "__children": []
+    },
+    {
+        "Base": 3386736169,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\accept.dll",
+        "Pid": 53029,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3446226594,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\several.dll",
+        "Pid": 59041,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1590934934,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\heart.dll",
+        "Pid": 38612,
+        "Process": "cup.mp3",
+        "__children": []
+    },
+    {
+        "Base": 2254868422,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\still.dll",
+        "Pid": 19918,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2626920469,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\smile.dll",
+        "Pid": 9188,
+        "Process": "might.mp3",
+        "__children": []
+    },
+    {
+        "Base": 3259756095,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\find.dll",
+        "Pid": 31643,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1128110334,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\start.dll",
+        "Pid": 16677,
+        "Process": "later.wav",
+        "__children": []
+    },
+    {
+        "Base": 3336841872,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\it.dll",
+        "Pid": 23189,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2466784867,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\important.dll",
+        "Pid": 38522,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3360311850,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\cup.dll",
+        "Pid": 48467,
+        "Process": "my.csv",
+        "__children": []
+    },
+    {
+        "Base": 3969483738,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\short.dll",
+        "Pid": 4230,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2254547869,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\turn.dll",
+        "Pid": 26052,
+        "Process": "bed.txt",
+        "__children": []
+    },
+    {
+        "Base": 2181893701,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\fill.dll",
+        "Pid": 63855,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1184454131,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\teach.dll",
+        "Pid": 64085,
+        "Process": "put.docx",
+        "__children": []
+    },
+    {
+        "Base": 2422969280,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\nation.dll",
+        "Pid": 13885,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1737518287,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\statement.dll",
+        "Pid": 39182,
+        "Process": "force.avi",
+        "__children": []
+    },
+    {
+        "Base": 3678601396,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\laugh.dll",
+        "Pid": 52687,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1364188044,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\color.dll",
+        "Pid": 29527,
+        "Process": "toward.ppt",
+        "__children": []
+    },
+    {
+        "Base": 1888685577,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\spring.dll",
+        "Pid": 64668,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2095564684,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\get.dll",
+        "Pid": 12470,
+        "Process": "street.bmp",
+        "__children": []
+    },
+    {
+        "Base": 3884795405,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\purpose.dll",
+        "Pid": 27103,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3935132514,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\best.dll",
+        "Pid": 26073,
+        "Process": "decide.docx",
+        "__children": []
+    },
+    {
+        "Base": 3576580111,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\believe.dll",
+        "Pid": 51026,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1596534263,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\institution.dll",
+        "Pid": 24406,
+        "Process": "necessary.wav",
+        "__children": []
+    },
+    {
+        "Base": 1397375055,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\as.dll",
+        "Pid": 17665,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2160041690,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\join.dll",
+        "Pid": 64184,
+        "Process": "economy.html",
+        "__children": []
+    },
+    {
+        "Base": 2702239763,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\every.dll",
+        "Pid": 14617,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2859913869,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\former.dll",
+        "Pid": 32591,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2088851651,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\relationship.dll",
+        "Pid": 60762,
+        "Process": "way.pptx",
+        "__children": []
+    },
+    {
+        "Base": 3380038165,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\each.dll",
+        "Pid": 58385,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2390012320,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\in.dll",
+        "Pid": 7034,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3709556974,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\minute.dll",
+        "Pid": 42769,
+        "Process": "address.bmp",
+        "__children": []
+    },
+    {
+        "Base": 3409305654,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\benefit.dll",
+        "Pid": 10079,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1850408575,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\lot.dll",
+        "Pid": 37003,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1145187057,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\law.dll",
+        "Pid": 14096,
+        "Process": "get.bmp",
+        "__children": []
+    },
+    {
+        "Base": 3032869776,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\late.dll",
+        "Pid": 31752,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3948723267,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\than.dll",
+        "Pid": 21252,
+        "Process": "investment.gif",
+        "__children": []
+    },
+    {
+        "Base": 3830986205,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\author.dll",
+        "Pid": 7316,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3821607019,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\north.dll",
+        "Pid": 28622,
+        "Process": "military.mp3",
+        "__children": []
+    },
+    {
+        "Base": 2682227475,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\trade.dll",
+        "Pid": 19325,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3484791717,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\day.dll",
+        "Pid": 51016,
+        "Process": "change.js",
+        "__children": []
+    },
+    {
+        "Base": 2029650935,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\single.dll",
+        "Pid": 20151,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2714675639,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\professor.dll",
+        "Pid": 3708,
+        "Process": "name.mp4",
+        "__children": []
+    },
+    {
+        "Base": 2998833406,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\production.dll",
+        "Pid": 1310,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3502035385,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\else.dll",
+        "Pid": 31636,
+        "Process": "page.docx",
+        "__children": []
+    },
+    {
+        "Base": 1090488492,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\drive.dll",
+        "Pid": 37981,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2137564756,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\them.dll",
+        "Pid": 34627,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1135267021,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\ability.dll",
+        "Pid": 43337,
+        "Process": "figure.css",
+        "__children": []
+    },
+    {
+        "Base": 1550958724,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\space.dll",
+        "Pid": 27071,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3273978894,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\plan.dll",
+        "Pid": 12648,
+        "Process": "child.js",
+        "__children": []
+    },
+    {
+        "Base": 2824217266,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\American.dll",
+        "Pid": 24149,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2125283347,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\region.dll",
+        "Pid": 10444,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3490948957,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\dog.dll",
+        "Pid": 26918,
+        "Process": "father.ods",
+        "__children": []
+    },
+    {
+        "Base": 2894794165,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\high.dll",
+        "Pid": 55354,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3954944529,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\parent.dll",
+        "Pid": 5234,
+        "Process": "pick.docx",
+        "__children": []
+    },
+    {
+        "Base": 2286615099,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\central.dll",
+        "Pid": 34676,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2064558556,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\staff.dll",
+        "Pid": 58733,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3993612296,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\image.dll",
+        "Pid": 25122,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1494281474,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\catch.dll",
+        "Pid": 35208,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2592760395,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\quite.dll",
+        "Pid": 63012,
+        "Process": "owner.css",
+        "__children": []
+    },
+    {
+        "Base": 3351162233,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\office.dll",
+        "Pid": 56158,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3172122216,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\trial.dll",
+        "Pid": 18210,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1759048895,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\better.dll",
+        "Pid": 17076,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3740575607,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\main.dll",
+        "Pid": 8800,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2343404635,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\pattern.dll",
+        "Pid": 3058,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3529880552,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\almost.dll",
+        "Pid": 48026,
+        "Process": "turn.pdf",
+        "__children": []
+    },
+    {
+        "Base": 3019191494,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\number.dll",
+        "Pid": 24735,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3678849492,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\up.dll",
+        "Pid": 62038,
+        "Process": "cut.mp3",
+        "__children": []
+    },
+    {
+        "Base": 1748721475,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\then.dll",
+        "Pid": 36896,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1305555895,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\hope.dll",
+        "Pid": 1459,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3556368379,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\about.dll",
+        "Pid": 36013,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1926642197,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\change.dll",
+        "Pid": 52826,
+        "Process": "media.numbers",
+        "__children": []
+    },
+    {
+        "Base": 3349706155,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\despite.dll",
+        "Pid": 39572,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2811207575,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\office.dll",
+        "Pid": 58424,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1996923936,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\standard.dll",
+        "Pid": 13473,
+        "Process": "thought.jpg",
+        "__children": []
+    },
+    {
+        "Base": 1348835093,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\election.dll",
+        "Pid": 19262,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1489483100,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\relationship.dll",
+        "Pid": 47780,
+        "Process": "local.wav",
+        "__children": []
+    },
+    {
+        "Base": 2810072024,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\have.dll",
+        "Pid": 16726,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1044835516,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\when.dll",
+        "Pid": 63354,
+        "Process": "security.png",
+        "__children": []
+    },
+    {
+        "Base": 2916957524,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\similar.dll",
+        "Pid": 38403,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3881711384,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\consider.dll",
+        "Pid": 64901,
+        "Process": "group.xls",
+        "__children": []
+    },
+    {
+        "Base": 2876807703,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\now.dll",
+        "Pid": 27910,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2893714595,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\know.dll",
+        "Pid": 43021,
+        "Process": "list.webm",
+        "__children": []
+    },
+    {
+        "Base": 2429527547,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\among.dll",
+        "Pid": 41377,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2787981052,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\song.dll",
+        "Pid": 46662,
+        "Process": "sound.json",
+        "__children": []
+    },
+    {
+        "Base": 3922807702,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\standard.dll",
+        "Pid": 48523,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2367102623,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\agent.dll",
+        "Pid": 18189,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2403771891,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\between.dll",
+        "Pid": 30735,
+        "Process": "successful.css",
+        "__children": []
+    },
+    {
+        "Base": 3243010957,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\culture.dll",
+        "Pid": 60660,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1358809003,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\behavior.dll",
+        "Pid": 18778,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1481722703,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\reduce.dll",
+        "Pid": 58615,
+        "Process": "day.csv",
+        "__children": []
+    },
+    {
+        "Base": 1518801217,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\there.dll",
+        "Pid": 58772,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2930740507,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\bag.dll",
+        "Pid": 55396,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3761128455,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\record.dll",
+        "Pid": 33816,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2616395898,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\realize.dll",
+        "Pid": 28221,
+        "Process": "body.ods",
+        "__children": []
+    },
+    {
+        "Base": 3601069345,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\card.dll",
+        "Pid": 29301,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3824375437,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\single.dll",
+        "Pid": 54308,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1175681272,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\church.dll",
+        "Pid": 30092,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1404873235,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\set.dll",
+        "Pid": 57458,
+        "Process": "short.avi",
+        "__children": []
+    },
+    {
+        "Base": 2088837235,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\too.dll",
+        "Pid": 59601,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3707809598,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\couple.dll",
+        "Pid": 57917,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2795398897,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\science.dll",
+        "Pid": 62807,
+        "Process": "least.jpeg",
+        "__children": []
+    },
+    {
+        "Base": 3040984740,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\change.dll",
+        "Pid": 6632,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1453402695,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\no.dll",
+        "Pid": 61870,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1130574371,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\research.dll",
+        "Pid": 38547,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3128865307,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\like.dll",
+        "Pid": 46563,
+        "Process": "eight.wav",
+        "__children": []
+    },
+    {
+        "Base": 2328970735,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\sign.dll",
+        "Pid": 57806,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3586501206,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\race.dll",
+        "Pid": 19105,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3435238475,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\offer.dll",
+        "Pid": 52848,
+        "Process": "form.webm",
+        "__children": []
+    },
+    {
+        "Base": 1309885010,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\yeah.dll",
+        "Pid": 13438,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3593395792,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\nor.dll",
+        "Pid": 30628,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2376001846,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\consider.dll",
+        "Pid": 58708,
+        "Process": "American.wav",
+        "__children": []
+    },
+    {
+        "Base": 1570797857,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\collection.dll",
+        "Pid": 42056,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1119123904,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\laugh.dll",
+        "Pid": 61451,
+        "Process": "young.jpeg",
+        "__children": []
+    },
+    {
+        "Base": 2756218431,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\ten.dll",
+        "Pid": 56363,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3044985659,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\gun.dll",
+        "Pid": 4769,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2559271420,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\likely.dll",
+        "Pid": 8646,
+        "Process": "alone.wav",
+        "__children": []
+    },
+    {
+        "Base": 3074810188,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\thing.dll",
+        "Pid": 1840,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3654526430,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\control.dll",
+        "Pid": 53446,
+        "Process": "now.pages",
+        "__children": []
+    },
+    {
+        "Base": 3708946580,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\former.dll",
+        "Pid": 15136,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3838028620,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\point.dll",
+        "Pid": 44565,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1679766869,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\life.dll",
+        "Pid": 54734,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2120166249,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\official.dll",
+        "Pid": 18999,
+        "Process": "course.bmp",
+        "__children": []
+    },
+    {
+        "Base": 2025603288,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\paper.dll",
+        "Pid": 1889,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1472453089,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\why.dll",
+        "Pid": 28442,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2616771158,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\college.dll",
+        "Pid": 63373,
+        "Process": "should.css",
+        "__children": []
+    },
+    {
+        "Base": 1896882067,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\hair.dll",
+        "Pid": 47522,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3137496062,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\threat.dll",
+        "Pid": 45435,
+        "Process": "then.csv",
+        "__children": []
+    },
+    {
+        "Base": 2279621251,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\minute.dll",
+        "Pid": 41895,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1443641644,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\there.dll",
+        "Pid": 53069,
+        "Process": "argue.gif",
+        "__children": []
+    },
+    {
+        "Base": 3542467513,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\week.dll",
+        "Pid": 59029,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1313238143,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\skin.dll",
+        "Pid": 63912,
+        "Process": "day.flac",
+        "__children": []
+    },
+    {
+        "Base": 2523162739,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\option.dll",
+        "Pid": 14158,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1459310247,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\better.dll",
+        "Pid": 1725,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3939147930,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\sit.dll",
+        "Pid": 33645,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3834216649,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\hand.dll",
+        "Pid": 12031,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1205078128,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\nation.dll",
+        "Pid": 32063,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2712324448,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\sure.dll",
+        "Pid": 28000,
+        "Process": "something.xlsx",
+        "__children": []
+    },
+    {
+        "Base": 3956243896,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\today.dll",
+        "Pid": 16281,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3630882567,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\crime.dll",
+        "Pid": 38763,
+        "Process": "run.csv",
+        "__children": []
+    },
+    {
+        "Base": 3156743702,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\local.dll",
+        "Pid": 45266,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3130984261,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\past.dll",
+        "Pid": 39798,
+        "Process": "strategy.flac",
+        "__children": []
+    },
+    {
+        "Base": 3660821546,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\line.dll",
+        "Pid": 22325,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3560475982,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\against.dll",
+        "Pid": 51598,
+        "Process": "somebody.csv",
+        "__children": []
+    },
+    {
+        "Base": 1190155830,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\smile.dll",
+        "Pid": 52649,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1069864358,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\miss.dll",
+        "Pid": 42968,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2048395040,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\bad.dll",
+        "Pid": 18399,
+        "Process": "president.webm",
+        "__children": []
+    },
+    {
+        "Base": 1126310358,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\today.dll",
+        "Pid": 50239,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2835469468,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\available.dll",
+        "Pid": 61623,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1012112997,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\dog.dll",
+        "Pid": 20334,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3992921081,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\deep.dll",
+        "Pid": 34201,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2565262794,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\attention.dll",
+        "Pid": 28103,
+        "Process": "treatment.gif",
+        "__children": []
+    },
+    {
+        "Base": 1256085972,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\above.dll",
+        "Pid": 54709,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3969695322,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\he.dll",
+        "Pid": 9060,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1242159503,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\Republican.dll",
+        "Pid": 27802,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2290580240,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\street.dll",
+        "Pid": 31407,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2663748926,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\north.dll",
+        "Pid": 9162,
+        "Process": "production.txt",
+        "__children": []
+    },
+    {
+        "Base": 1703322988,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\college.dll",
+        "Pid": 10971,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3819615090,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\reality.dll",
+        "Pid": 23720,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1054090901,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\cost.dll",
+        "Pid": 32536,
+        "Process": "agent.html",
+        "__children": []
+    },
+    {
+        "Base": 2226446791,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\lawyer.dll",
+        "Pid": 34750,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3724417590,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\night.dll",
+        "Pid": 47245,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3727410281,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\hair.dll",
+        "Pid": 63281,
+        "Process": "box.mov",
+        "__children": []
+    },
+    {
+        "Base": 3452408922,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\democratic.dll",
+        "Pid": 45246,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3313859835,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\gas.dll",
+        "Pid": 2197,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2474260920,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\trip.dll",
+        "Pid": 26723,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3585176143,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\factor.dll",
+        "Pid": 52334,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2523293632,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\PM.dll",
+        "Pid": 13430,
+        "Process": "budget.mp3",
+        "__children": []
+    },
+    {
+        "Base": 3780096572,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\any.dll",
+        "Pid": 34529,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2200784802,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\staff.dll",
+        "Pid": 49804,
+        "Process": "need.webm",
+        "__children": []
+    },
+    {
+        "Base": 3800377604,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\director.dll",
+        "Pid": 28365,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2426207520,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\morning.dll",
+        "Pid": 1714,
+        "Process": "consider.pages",
+        "__children": []
+    },
+    {
+        "Base": 1690257863,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\catch.dll",
+        "Pid": 55223,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2359586743,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\nice.dll",
+        "Pid": 14426,
+        "Process": "call.flac",
+        "__children": []
+    },
+    {
+        "Base": 2390686473,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\training.dll",
+        "Pid": 55603,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2928328532,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\which.dll",
+        "Pid": 19799,
+        "Process": "action.pages",
+        "__children": []
+    },
+    {
+        "Base": 1914246552,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\citizen.dll",
+        "Pid": 49569,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3901488221,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\across.dll",
+        "Pid": 9711,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1326179905,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\take.dll",
+        "Pid": 26210,
+        "Process": "month.flac",
+        "__children": []
+    },
+    {
+        "Base": 3334785363,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\attorney.dll",
+        "Pid": 9585,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1830329312,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\its.dll",
+        "Pid": 34046,
+        "Process": "especially.avi",
+        "__children": []
+    },
+    {
+        "Base": 1115012352,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\free.dll",
+        "Pid": 23671,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3863238865,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\practice.dll",
+        "Pid": 23764,
+        "Process": "smile.key",
+        "__children": []
+    },
+    {
+        "Base": 3285748581,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\dark.dll",
+        "Pid": 49625,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3480103893,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\throughout.dll",
+        "Pid": 19539,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1821099474,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\media.dll",
+        "Pid": 57204,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2294489346,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\letter.dll",
+        "Pid": 10322,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3993187520,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\company.dll",
+        "Pid": 36807,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3100010777,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\player.dll",
+        "Pid": 47743,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3108649781,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\before.dll",
+        "Pid": 2715,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3911959523,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\high.dll",
+        "Pid": 27350,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2896544473,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\dinner.dll",
+        "Pid": 37230,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3539150072,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\Mr.dll",
+        "Pid": 54903,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2878539219,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\mission.dll",
+        "Pid": 27329,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3610819740,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\want.dll",
+        "Pid": 3714,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3144057038,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\still.dll",
+        "Pid": 1504,
+        "Process": "evening.css",
+        "__children": []
+    },
+    {
+        "Base": 2100845546,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\key.dll",
+        "Pid": 44592,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3084786198,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\mission.dll",
+        "Pid": 5503,
+        "Process": "performance.ods",
+        "__children": []
+    },
+    {
+        "Base": 1903681604,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\do.dll",
+        "Pid": 59117,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3515387721,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\economy.dll",
+        "Pid": 7442,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2033627313,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\situation.dll",
+        "Pid": 9474,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3492218688,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\visit.dll",
+        "Pid": 54834,
+        "Process": "interesting.png",
+        "__children": []
+    },
+    {
+        "Base": 1023713859,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\true.dll",
+        "Pid": 35583,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3652802769,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\visit.dll",
+        "Pid": 55940,
+        "Process": "possible.ods",
+        "__children": []
+    },
+    {
+        "Base": 3268171209,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\light.dll",
+        "Pid": 59627,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3449669078,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\them.dll",
+        "Pid": 26022,
+        "Process": "heavy.gif",
+        "__children": []
+    },
+    {
+        "Base": 3143334890,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\despite.dll",
+        "Pid": 37085,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3904170445,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\series.dll",
+        "Pid": 6000,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2000198315,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\edge.dll",
+        "Pid": 22175,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2829007855,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\improve.dll",
+        "Pid": 26941,
+        "Process": "great.mov",
+        "__children": []
+    },
+    {
+        "Base": 1516057695,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\into.dll",
+        "Pid": 10461,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1883410780,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\management.dll",
+        "Pid": 21376,
+        "Process": "explain.odp",
+        "__children": []
+    },
+    {
+        "Base": 2425869474,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\arm.dll",
+        "Pid": 40236,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3874862477,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\allow.dll",
+        "Pid": 37114,
+        "Process": "performance.key",
+        "__children": []
+    },
+    {
+        "Base": 1934622283,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\cover.dll",
+        "Pid": 41349,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3504359598,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\floor.dll",
+        "Pid": 36644,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3477650446,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\bank.dll",
+        "Pid": 27339,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2164054199,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\her.dll",
+        "Pid": 21877,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1768935951,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\everybody.dll",
+        "Pid": 47227,
+        "Process": "hospital.avi",
+        "__children": []
+    },
+    {
+        "Base": 3843557876,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\home.dll",
+        "Pid": 59491,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3886087890,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\professor.dll",
+        "Pid": 26460,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1961402647,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\out.dll",
+        "Pid": 54523,
+        "Process": "represent.ods",
+        "__children": []
+    },
+    {
+        "Base": 2534420826,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\thus.dll",
+        "Pid": 5223,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1146128183,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\she.dll",
+        "Pid": 14184,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2492040673,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\really.dll",
+        "Pid": 10189,
+        "Process": "direction.wav",
+        "__children": []
+    },
+    {
+        "Base": 1250268267,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\computer.dll",
+        "Pid": 57964,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2870477542,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\indicate.dll",
+        "Pid": 13707,
+        "Process": "wait.json",
+        "__children": []
+    },
+    {
+        "Base": 2145973077,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\seem.dll",
+        "Pid": 55754,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1863992205,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\discussion.dll",
+        "Pid": 39233,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3213671258,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\require.dll",
+        "Pid": 36513,
+        "Process": "he.gif",
+        "__children": []
+    },
+    {
+        "Base": 2267030909,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\goal.dll",
+        "Pid": 33944,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3930028480,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\enough.dll",
+        "Pid": 5864,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2078087638,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\establish.dll",
+        "Pid": 56789,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3507840385,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\wall.dll",
+        "Pid": 64335,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2732827257,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\live.dll",
+        "Pid": 50422,
+        "Process": "right.ods",
+        "__children": []
+    },
+    {
+        "Base": 2746867485,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\cold.dll",
+        "Pid": 38970,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3380660297,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\drug.dll",
+        "Pid": 60072,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2695695002,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\each.dll",
+        "Pid": 22765,
+        "Process": "each.wav",
+        "__children": []
+    },
+    {
+        "Base": 1348173512,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\mind.dll",
+        "Pid": 38228,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2576401792,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\money.dll",
+        "Pid": 37836,
+        "Process": "amount.wav",
+        "__children": []
+    },
+    {
+        "Base": 1169607356,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\with.dll",
+        "Pid": 37599,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3866294010,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\point.dll",
+        "Pid": 52639,
+        "Process": "area.odt",
+        "__children": []
+    },
+    {
+        "Base": 2300743566,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\report.dll",
+        "Pid": 34596,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2664033854,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\notice.dll",
+        "Pid": 22624,
+        "Process": "mission.gif",
+        "__children": []
+    },
+    {
+        "Base": 3188984597,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\fund.dll",
+        "Pid": 42514,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2885424220,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\father.dll",
+        "Pid": 15206,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2304151912,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\system.dll",
+        "Pid": 32081,
+        "Process": "born.avi",
+        "__children": []
+    },
+    {
+        "Base": 2203811290,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\focus.dll",
+        "Pid": 1106,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2659394849,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\hope.dll",
+        "Pid": 31486,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2804663971,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\thus.dll",
+        "Pid": 19023,
+        "Process": "popular.json",
+        "__children": []
+    },
+    {
+        "Base": 1897293601,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\which.dll",
+        "Pid": 49858,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3141841866,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\the.dll",
+        "Pid": 43204,
+        "Process": "together.json",
+        "__children": []
+    },
+    {
+        "Base": 2395413912,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\scene.dll",
+        "Pid": 18152,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1421329984,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\miss.dll",
+        "Pid": 22653,
+        "Process": "order.mp3",
+        "__children": []
+    },
+    {
+        "Base": 3211209807,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\follow.dll",
+        "Pid": 43553,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3659528497,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\catch.dll",
+        "Pid": 56332,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1592386034,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\size.dll",
+        "Pid": 64548,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1432300136,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\hard.dll",
+        "Pid": 14571,
+        "Process": "treat.mov",
+        "__children": []
+    },
+    {
+        "Base": 3003715524,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\guy.dll",
+        "Pid": 32668,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1125834459,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\something.dll",
+        "Pid": 6048,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3055960899,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\skill.dll",
+        "Pid": 12858,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2889826553,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\set.dll",
+        "Pid": 34122,
+        "Process": "ahead.txt",
+        "__children": []
+    },
+    {
+        "Base": 1404143771,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\fast.dll",
+        "Pid": 36658,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1398058113,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\type.dll",
+        "Pid": 50872,
+        "Process": "civil.mov",
+        "__children": []
+    },
+    {
+        "Base": 3870153982,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\stand.dll",
+        "Pid": 1853,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1532729806,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\best.dll",
+        "Pid": 15091,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3589218463,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\specific.dll",
+        "Pid": 48650,
+        "Process": "suffer.js",
+        "__children": []
+    },
+    {
+        "Base": 2559023054,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\financial.dll",
+        "Pid": 27606,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3269670265,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\color.dll",
+        "Pid": 4292,
+        "Process": "new.tiff",
+        "__children": []
+    },
+    {
+        "Base": 2918928613,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\senior.dll",
+        "Pid": 38075,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2497797779,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\add.dll",
+        "Pid": 13775,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1107596912,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\wind.dll",
+        "Pid": 15773,
+        "Process": "gun.mp3",
+        "__children": []
+    },
+    {
+        "Base": 2371043702,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\avoid.dll",
+        "Pid": 50472,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3315896549,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\financial.dll",
+        "Pid": 52927,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1953640416,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\charge.dll",
+        "Pid": 58701,
+        "Process": "tough.pages",
+        "__children": []
+    },
+    {
+        "Base": 1608775657,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\per.dll",
+        "Pid": 47028,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3531346325,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\trouble.dll",
+        "Pid": 47021,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2889955094,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\himself.dll",
+        "Pid": 32545,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2899534897,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\law.dll",
+        "Pid": 8061,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2080724268,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\coach.dll",
+        "Pid": 47811,
+        "Process": "option.js",
+        "__children": []
+    },
+    {
+        "Base": 3150372278,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\recently.dll",
+        "Pid": 55435,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1322137002,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\only.dll",
+        "Pid": 11591,
+        "Process": "do.wav",
+        "__children": []
+    },
+    {
+        "Base": 3621134369,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\fight.dll",
+        "Pid": 12437,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1016528777,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\much.dll",
+        "Pid": 25677,
+        "Process": "hot.webm",
+        "__children": []
+    },
+    {
+        "Base": 3595047677,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\billion.dll",
+        "Pid": 21690,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2606279485,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\market.dll",
+        "Pid": 4167,
+        "Process": "you.avi",
+        "__children": []
+    },
+    {
+        "Base": 1721455129,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\interest.dll",
+        "Pid": 35274,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1602995244,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\agent.dll",
+        "Pid": 34300,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3100940629,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\reveal.dll",
+        "Pid": 29281,
+        "Process": "treatment.bmp",
+        "__children": []
+    },
+    {
+        "Base": 3264386861,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\act.dll",
+        "Pid": 5211,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3286416942,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\attention.dll",
+        "Pid": 57293,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3556408746,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\ten.dll",
+        "Pid": 25721,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2051581765,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\tell.dll",
+        "Pid": 63450,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3160142545,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\rate.dll",
+        "Pid": 52229,
+        "Process": "thus.txt",
+        "__children": []
+    },
+    {
+        "Base": 2350599647,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\herself.dll",
+        "Pid": 32561,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2355269827,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\leader.dll",
+        "Pid": 41703,
+        "Process": "marriage.key",
+        "__children": []
+    },
+    {
+        "Base": 1678316278,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\think.dll",
+        "Pid": 4657,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3397447236,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\reveal.dll",
+        "Pid": 28317,
+        "Process": "change.html",
+        "__children": []
+    },
+    {
+        "Base": 3832054594,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\thousand.dll",
+        "Pid": 56498,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3396142455,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\instead.dll",
+        "Pid": 34315,
+        "Process": "significant.mov",
+        "__children": []
+    },
+    {
+        "Base": 2280314641,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\unit.dll",
+        "Pid": 24028,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3430639034,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\senior.dll",
+        "Pid": 42340,
+        "Process": "institution.js",
+        "__children": []
+    },
+    {
+        "Base": 3369841672,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\she.dll",
+        "Pid": 50590,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2888171645,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\because.dll",
+        "Pid": 48228,
+        "Process": "bring.docx",
+        "__children": []
+    },
+    {
+        "Base": 3854195478,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\head.dll",
+        "Pid": 53852,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1900971535,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\involve.dll",
+        "Pid": 13032,
+        "Process": "professional.ods",
+        "__children": []
+    },
+    {
+        "Base": 3465208562,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\by.dll",
+        "Pid": 45258,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1600190725,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\see.dll",
+        "Pid": 5761,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1063654189,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\fight.dll",
+        "Pid": 29836,
+        "Process": "movement.xls",
+        "__children": []
+    },
+    {
+        "Base": 1479715519,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\despite.dll",
+        "Pid": 1384,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1174598347,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\event.dll",
+        "Pid": 28684,
+        "Process": "claim.docx",
+        "__children": []
+    },
+    {
+        "Base": 2569467979,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\move.dll",
+        "Pid": 22584,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2683374761,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\family.dll",
+        "Pid": 41704,
+        "Process": "product.xls",
+        "__children": []
+    },
+    {
+        "Base": 2107787172,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\baby.dll",
+        "Pid": 40507,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2938274638,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\evidence.dll",
+        "Pid": 7836,
+        "Process": "experience.flac",
+        "__children": []
+    },
+    {
+        "Base": 1188392464,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\professor.dll",
+        "Pid": 56777,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1726198167,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\generation.dll",
+        "Pid": 23362,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1615473030,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\point.dll",
+        "Pid": 43404,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3702898402,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\happy.dll",
+        "Pid": 18753,
+        "Process": "fund.doc",
+        "__children": []
+    },
+    {
+        "Base": 1125326075,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\local.dll",
+        "Pid": 13753,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2203394831,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\dog.dll",
+        "Pid": 34941,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1953501421,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\real.dll",
+        "Pid": 7728,
+        "Process": "end.txt",
+        "__children": []
+    },
+    {
+        "Base": 2854041636,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\store.dll",
+        "Pid": 11380,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3948557730,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\again.dll",
+        "Pid": 48596,
+        "Process": "popular.webm",
+        "__children": []
+    },
+    {
+        "Base": 2442012959,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\study.dll",
+        "Pid": 37349,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3470174130,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\late.dll",
+        "Pid": 34239,
+        "Process": "more.mp4",
+        "__children": []
+    },
+    {
+        "Base": 2495355878,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\put.dll",
+        "Pid": 10371,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3100226926,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\glass.dll",
+        "Pid": 38576,
+        "Process": "floor.pptx",
+        "__children": []
+    },
+    {
+        "Base": 2497854128,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\economy.dll",
+        "Pid": 40186,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3425971230,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\manage.dll",
+        "Pid": 15356,
+        "Process": "watch.mp3",
+        "__children": []
+    },
+    {
+        "Base": 3444969520,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\rather.dll",
+        "Pid": 60292,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3329544923,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\job.dll",
+        "Pid": 62593,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3389332909,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\hand.dll",
+        "Pid": 52758,
+        "Process": "great.flac",
+        "__children": []
+    },
+    {
+        "Base": 1765777770,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\weight.dll",
+        "Pid": 38481,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2511511763,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\east.dll",
+        "Pid": 54723,
+        "Process": "marriage.pages",
+        "__children": []
+    },
+    {
+        "Base": 3649834102,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\take.dll",
+        "Pid": 58169,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3474769959,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\seek.dll",
+        "Pid": 17003,
+        "Process": "vote.odt",
+        "__children": []
+    },
+    {
+        "Base": 2747304134,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\soldier.dll",
+        "Pid": 7772,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2233091731,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\mother.dll",
+        "Pid": 42667,
+        "Process": "a.tiff",
+        "__children": []
+    },
+    {
+        "Base": 2766953315,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\south.dll",
+        "Pid": 46050,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3399587536,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\organization.dll",
+        "Pid": 17540,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1535074580,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\price.dll",
+        "Pid": 39134,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2413470962,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\loss.dll",
+        "Pid": 54539,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1310228105,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\body.dll",
+        "Pid": 18883,
+        "Process": "rest.mov",
+        "__children": []
+    },
+    {
+        "Base": 3707304812,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\miss.dll",
+        "Pid": 5783,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2229075521,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\increase.dll",
+        "Pid": 52357,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3495425151,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\maintain.dll",
+        "Pid": 14778,
+        "Process": "scene.png",
+        "__children": []
+    },
+    {
+        "Base": 1819821407,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\large.dll",
+        "Pid": 10568,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1931961935,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\know.dll",
+        "Pid": 52505,
+        "Process": "learn.bmp",
+        "__children": []
+    },
+    {
+        "Base": 1736648340,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\parent.dll",
+        "Pid": 5606,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3390242443,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\require.dll",
+        "Pid": 13544,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3789314570,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\rock.dll",
+        "Pid": 30248,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2019891314,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\either.dll",
+        "Pid": 15636,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1300901885,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\really.dll",
+        "Pid": 25980,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1483512220,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\bring.dll",
+        "Pid": 27519,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2654851285,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\audience.dll",
+        "Pid": 60565,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2890555675,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\him.dll",
+        "Pid": 41102,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3746176892,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\growth.dll",
+        "Pid": 51731,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3071136777,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\throughout.dll",
+        "Pid": 45114,
+        "Process": "audience.avi",
+        "__children": []
+    },
+    {
+        "Base": 3877873345,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\upon.dll",
+        "Pid": 24130,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1519406016,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\growth.dll",
+        "Pid": 13373,
+        "Process": "development.bmp",
+        "__children": []
+    },
+    {
+        "Base": 2385693005,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\table.dll",
+        "Pid": 63680,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3885965075,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\amount.dll",
+        "Pid": 30807,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3448518684,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\south.dll",
+        "Pid": 53653,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1189571482,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\partner.dll",
+        "Pid": 57237,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2347761013,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\movement.dll",
+        "Pid": 61961,
+        "Process": "effort.pptx",
+        "__children": []
+    },
+    {
+        "Base": 3993958447,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\game.dll",
+        "Pid": 46343,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3758627563,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\leg.dll",
+        "Pid": 56989,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1635663371,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\not.dll",
+        "Pid": 1763,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3140568243,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\win.dll",
+        "Pid": 9683,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3822935889,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\political.dll",
+        "Pid": 37698,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1097169653,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\he.dll",
+        "Pid": 15502,
+        "Process": "economy.docx",
+        "__children": []
+    },
+    {
+        "Base": 2219003052,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\either.dll",
+        "Pid": 17857,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3455294274,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\real.dll",
+        "Pid": 13567,
+        "Process": "single.css",
+        "__children": []
+    },
+    {
+        "Base": 1998443297,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\local.dll",
+        "Pid": 32213,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3468513745,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\ability.dll",
+        "Pid": 8991,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2100113965,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\through.dll",
+        "Pid": 51218,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3887050556,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\they.dll",
+        "Pid": 37109,
+        "Process": "last.csv",
+        "__children": []
+    },
+    {
+        "Base": 2312318487,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\PM.dll",
+        "Pid": 22719,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1360871495,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\trade.dll",
+        "Pid": 11466,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2703991503,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\staff.dll",
+        "Pid": 38294,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3496066814,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\water.dll",
+        "Pid": 53993,
+        "Process": "peace.csv",
+        "__children": []
+    },
+    {
+        "Base": 2665451691,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\fish.dll",
+        "Pid": 19703,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2395380312,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\operation.dll",
+        "Pid": 58167,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1071359426,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\do.dll",
+        "Pid": 39630,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2704202473,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\story.dll",
+        "Pid": 17014,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3334326377,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\prove.dll",
+        "Pid": 27881,
+        "Process": "in.html",
+        "__children": []
+    },
+    {
+        "Base": 2649621189,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\pick.dll",
+        "Pid": 57394,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1649692723,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\data.dll",
+        "Pid": 28487,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1433979432,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\member.dll",
+        "Pid": 21982,
+        "Process": "those.json",
+        "__children": []
+    },
+    {
+        "Base": 3720426060,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\southern.dll",
+        "Pid": 23142,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1085247419,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\future.dll",
+        "Pid": 1401,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2576481244,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\enough.dll",
+        "Pid": 8486,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2660889975,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\Congress.dll",
+        "Pid": 26977,
+        "Process": "marriage.mp4",
+        "__children": []
+    },
+    {
+        "Base": 1334602237,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\cause.dll",
+        "Pid": 55038,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1850784095,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\occur.dll",
+        "Pid": 15088,
+        "Process": "agent.ppt",
+        "__children": []
+    },
+    {
+        "Base": 1296386373,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\issue.dll",
+        "Pid": 63566,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2084132377,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\inside.dll",
+        "Pid": 2225,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3561787050,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\politics.dll",
+        "Pid": 39523,
+        "Process": "information.key",
+        "__children": []
+    },
+    {
+        "Base": 1434396499,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\culture.dll",
+        "Pid": 45067,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3271094878,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\affect.dll",
+        "Pid": 37485,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2645937305,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\end.dll",
+        "Pid": 40034,
+        "Process": "discussion.avi",
+        "__children": []
+    },
+    {
+        "Base": 2533133072,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\show.dll",
+        "Pid": 2704,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1779624977,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\money.dll",
+        "Pid": 28251,
+        "Process": "population.gif",
+        "__children": []
+    },
+    {
+        "Base": 2689762845,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\board.dll",
+        "Pid": 22656,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1878007324,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\fill.dll",
+        "Pid": 51225,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1187589734,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\debate.dll",
+        "Pid": 21666,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2286144694,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\election.dll",
+        "Pid": 1593,
+        "Process": "resource.gif",
+        "__children": []
+    },
+    {
+        "Base": 3621218578,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\true.dll",
+        "Pid": 5252,
+        "Process": "heavy.bmp",
+        "__children": []
+    },
+    {
+        "Base": 3887016667,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\meet.dll",
+        "Pid": 12483,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2963923840,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\expect.dll",
+        "Pid": 11592,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2417698666,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\identify.dll",
+        "Pid": 10425,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1454748490,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\suffer.dll",
+        "Pid": 28066,
+        "Process": "election.gif",
+        "__children": []
+    },
+    {
+        "Base": 1007249394,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\no.dll",
+        "Pid": 24639,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3580403802,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\simply.dll",
+        "Pid": 47080,
+        "Process": "worker.tiff",
+        "__children": []
+    },
+    {
+        "Base": 2327544462,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\stand.dll",
+        "Pid": 54707,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2426851107,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\about.dll",
+        "Pid": 35032,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3490968783,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\special.dll",
+        "Pid": 59783,
+        "Process": "game.json",
+        "__children": []
+    },
+    {
+        "Base": 3433578646,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\about.dll",
+        "Pid": 43731,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2810206366,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\kid.dll",
+        "Pid": 40526,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2535818849,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\station.dll",
+        "Pid": 4019,
+        "Process": "focus.jpg",
+        "__children": []
+    },
+    {
+        "Base": 1812855019,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\would.dll",
+        "Pid": 44883,
+        "Process": "specific.flac",
+        "__children": []
+    },
+    {
+        "Base": 2966791572,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\lead.dll",
+        "Pid": 18532,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3404921003,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\majority.dll",
+        "Pid": 30703,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1766147178,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\effect.dll",
+        "Pid": 11758,
+        "Process": "his.wav",
+        "__children": []
+    },
+    {
+        "Base": 1226616582,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\mention.dll",
+        "Pid": 45007,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3635540441,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\remain.dll",
+        "Pid": 11462,
+        "Process": "little.mov",
+        "__children": []
+    },
+    {
+        "Base": 1389951986,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\ago.dll",
+        "Pid": 41550,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2868309774,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\growth.dll",
+        "Pid": 55852,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3655947367,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\blood.dll",
+        "Pid": 58699,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3273477561,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\develop.dll",
+        "Pid": 58736,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1703650431,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\several.dll",
+        "Pid": 28054,
+        "Process": "section.tiff",
+        "__children": []
+    },
+    {
+        "Base": 1918874231,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\put.dll",
+        "Pid": 8326,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1343333374,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\speak.dll",
+        "Pid": 49632,
+        "Process": "economy.js",
+        "__children": []
+    },
+    {
+        "Base": 3832260745,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\happy.dll",
+        "Pid": 14936,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2154030514,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\benefit.dll",
+        "Pid": 59096,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2049900709,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\Republican.dll",
+        "Pid": 42228,
+        "Process": "against.json",
+        "__children": []
+    },
+    {
+        "Base": 1508392638,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\tell.dll",
+        "Pid": 19335,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2897394271,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\firm.dll",
+        "Pid": 6405,
+        "Process": "few.wav",
+        "__children": []
+    },
+    {
+        "Base": 2777079726,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\father.dll",
+        "Pid": 2871,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3029048435,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\image.dll",
+        "Pid": 10137,
+        "Process": "may.csv",
+        "__children": []
+    },
+    {
+        "Base": 1114716965,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\week.dll",
+        "Pid": 11019,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2695542706,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\per.dll",
+        "Pid": 26514,
+        "Process": "finally.pdf",
+        "__children": []
+    },
+    {
+        "Base": 1125058343,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\at.dll",
+        "Pid": 59979,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2556999201,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\big.dll",
+        "Pid": 32563,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1482256497,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\fight.dll",
+        "Pid": 47115,
+        "Process": "movie.flac",
+        "__children": []
+    },
+    {
+        "Base": 1427263260,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\never.dll",
+        "Pid": 49262,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1403024441,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\charge.dll",
+        "Pid": 9941,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1815661136,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\pattern.dll",
+        "Pid": 8819,
+        "Process": "surface.flac",
+        "__children": []
+    },
+    {
+        "Base": 1880173238,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\design.dll",
+        "Pid": 31930,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3794358067,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\significant.dll",
+        "Pid": 16177,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1333842347,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\require.dll",
+        "Pid": 51123,
+        "Process": "position.odt",
+        "__children": []
+    },
+    {
+        "Base": 1244685146,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\painting.dll",
+        "Pid": 27306,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1454898968,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\international.dll",
+        "Pid": 30356,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2492770554,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\cultural.dll",
+        "Pid": 10917,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1833812198,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\that.dll",
+        "Pid": 40362,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1276648640,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\why.dll",
+        "Pid": 62756,
+        "Process": "enough.tiff",
+        "__children": []
+    },
+    {
+        "Base": 2636395229,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\produce.dll",
+        "Pid": 45064,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2491277885,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\couple.dll",
+        "Pid": 4453,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3628755171,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\agency.dll",
+        "Pid": 54731,
+        "Process": "treat.flac",
+        "__children": []
+    },
+    {
+        "Base": 1583877444,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\could.dll",
+        "Pid": 14106,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2666727481,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\line.dll",
+        "Pid": 55977,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1053596756,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\real.dll",
+        "Pid": 63351,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1220164993,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\people.dll",
+        "Pid": 17138,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1053667864,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\billion.dll",
+        "Pid": 5017,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2812676800,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\shoulder.dll",
+        "Pid": 40359,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3949641734,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\property.dll",
+        "Pid": 18305,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1571377299,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\not.dll",
+        "Pid": 64585,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2157758581,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\a.dll",
+        "Pid": 19155,
+        "Process": "sing.gif",
+        "__children": []
+    },
+    {
+        "Base": 2872599387,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\let.dll",
+        "Pid": 61924,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1807922164,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\fall.dll",
+        "Pid": 61884,
+        "Process": "indicate.avi",
+        "__children": []
+    },
+    {
+        "Base": 3844308281,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\girl.dll",
+        "Pid": 41753,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3715943686,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\again.dll",
+        "Pid": 7037,
+        "Process": "reality.mov",
+        "__children": []
+    },
+    {
+        "Base": 2206938053,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\suggest.dll",
+        "Pid": 37346,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1113220054,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\reveal.dll",
+        "Pid": 30699,
+        "Process": "those.odt",
+        "__children": []
+    },
+    {
+        "Base": 1095041034,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\subject.dll",
+        "Pid": 8150,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1553516215,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\Mr.dll",
+        "Pid": 54257,
+        "Process": "without.bmp",
+        "__children": []
+    },
+    {
+        "Base": 1634374466,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\west.dll",
+        "Pid": 44371,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3126511196,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\where.dll",
+        "Pid": 23855,
+        "Process": "girl.css",
+        "__children": []
+    },
+    {
+        "Base": 1425996132,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\contain.dll",
+        "Pid": 7905,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3613545620,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\subject.dll",
+        "Pid": 16703,
+        "Process": "loss.js",
+        "__children": []
+    },
+    {
+        "Base": 1747357741,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\face.dll",
+        "Pid": 24460,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1656810788,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\will.dll",
+        "Pid": 22525,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1628635207,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\nor.dll",
+        "Pid": 18193,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1544108318,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\our.dll",
+        "Pid": 31685,
+        "Process": "guy.pptx",
+        "__children": []
+    },
+    {
+        "Base": 1150911642,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\as.dll",
+        "Pid": 11791,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1212903044,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\without.dll",
+        "Pid": 30709,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3466358773,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\minute.dll",
+        "Pid": 27274,
+        "Process": "population.odt",
+        "__children": []
+    },
+    {
+        "Base": 2524089942,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\firm.dll",
+        "Pid": 31042,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1382199208,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\room.dll",
+        "Pid": 37037,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1090802866,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\beyond.dll",
+        "Pid": 28008,
+        "Process": "research.doc",
+        "__children": []
+    },
+    {
+        "Base": 3094219970,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\who.dll",
+        "Pid": 38124,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3779749737,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\political.dll",
+        "Pid": 38226,
+        "Process": "skin.pptx",
+        "__children": []
+    },
+    {
+        "Base": 1682263524,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\according.dll",
+        "Pid": 54300,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1622374867,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\become.dll",
+        "Pid": 55637,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3624637043,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\them.dll",
+        "Pid": 48417,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2216625313,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\event.dll",
+        "Pid": 34885,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1012493336,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\open.dll",
+        "Pid": 42934,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2890914195,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\money.dll",
+        "Pid": 63692,
+        "Process": "agent.csv",
+        "__children": []
+    },
+    {
+        "Base": 2972743575,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\success.dll",
+        "Pid": 52170,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3591025056,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\spend.dll",
+        "Pid": 50732,
+        "Process": "environmental.mov",
+        "__children": []
+    },
+    {
+        "Base": 2870672968,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\let.dll",
+        "Pid": 11397,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2755266311,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\gas.dll",
+        "Pid": 4642,
+        "Process": "a.xlsx",
+        "__children": []
+    },
+    {
+        "Base": 1763406013,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\skin.dll",
+        "Pid": 52973,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1175895223,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\power.dll",
+        "Pid": 52306,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2561229953,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\final.dll",
+        "Pid": 16909,
+        "Process": "meeting.key",
+        "__children": []
+    },
+    {
+        "Base": 3141712561,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\others.dll",
+        "Pid": 38839,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3604933953,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\road.dll",
+        "Pid": 8566,
+        "Process": "everything.flac",
+        "__children": []
+    },
+    {
+        "Base": 1974015486,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\hotel.dll",
+        "Pid": 34151,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1686714249,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\wife.dll",
+        "Pid": 47467,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1104677150,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\someone.dll",
+        "Pid": 18715,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1734559035,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\either.dll",
+        "Pid": 62028,
+        "Process": "whether.odt",
+        "__children": []
+    },
+    {
+        "Base": 1237326538,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\over.dll",
+        "Pid": 8906,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3301171164,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\training.dll",
+        "Pid": 24134,
+        "Process": "buy.bmp",
+        "__children": []
+    },
+    {
+        "Base": 1918445559,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\position.dll",
+        "Pid": 5396,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1121944279,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\development.dll",
+        "Pid": 17393,
+        "Process": "instead.wav",
+        "__children": []
+    },
+    {
+        "Base": 2181642973,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\even.dll",
+        "Pid": 46273,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2351928981,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\tend.dll",
+        "Pid": 13727,
+        "Process": "popular.bmp",
+        "__children": []
+    },
+    {
+        "Base": 2108687932,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\daughter.dll",
+        "Pid": 31711,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1407099832,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\add.dll",
+        "Pid": 39984,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2008711318,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\low.dll",
+        "Pid": 9267,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1220211770,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\build.dll",
+        "Pid": 46950,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1278969958,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\street.dll",
+        "Pid": 6712,
+        "Process": "season.json",
+        "__children": []
+    },
+    {
+        "Base": 2474629528,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\late.dll",
+        "Pid": 61931,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3618168432,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\area.dll",
+        "Pid": 64742,
+        "Process": "strategy.xls",
+        "__children": []
+    },
+    {
+        "Base": 2872380273,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\statement.dll",
+        "Pid": 48243,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3879897289,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\various.dll",
+        "Pid": 38049,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3948160669,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\consider.dll",
+        "Pid": 22686,
+        "Process": "two.mov",
+        "__children": []
+    },
+    {
+        "Base": 1607888526,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\red.dll",
+        "Pid": 56424,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3398798613,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\any.dll",
+        "Pid": 17779,
+        "Process": "firm.css",
+        "__children": []
+    },
+    {
+        "Base": 1311951928,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\husband.dll",
+        "Pid": 64390,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2635992166,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\system.dll",
+        "Pid": 45646,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3802028438,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\fall.dll",
+        "Pid": 11820,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2350135679,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\pick.dll",
+        "Pid": 22237,
+        "Process": "billion.json",
+        "__children": []
+    },
+    {
+        "Base": 1651899944,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\without.dll",
+        "Pid": 6769,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3933448720,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\lot.dll",
+        "Pid": 55778,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2952970250,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\else.dll",
+        "Pid": 35097,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2552946851,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\government.dll",
+        "Pid": 42307,
+        "Process": "wife.txt",
+        "__children": []
+    },
+    {
+        "Base": 3932039261,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\land.dll",
+        "Pid": 59936,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1390064469,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\bad.dll",
+        "Pid": 34968,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1587789836,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\laugh.dll",
+        "Pid": 64877,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3957495975,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\bank.dll",
+        "Pid": 15309,
+        "Process": "peace.pdf",
+        "__children": []
+    },
+    {
+        "Base": 2893706211,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\ten.dll",
+        "Pid": 25798,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3271117327,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\eat.dll",
+        "Pid": 33926,
+        "Process": "get.jpeg",
+        "__children": []
+    },
+    {
+        "Base": 1594337458,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\television.dll",
+        "Pid": 46053,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3318645010,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\song.dll",
+        "Pid": 10755,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2141442840,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\decide.dll",
+        "Pid": 33481,
+        "Process": "thing.mp3",
+        "__children": []
+    },
+    {
+        "Base": 1960452895,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\property.dll",
+        "Pid": 3108,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3377459810,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\cell.dll",
+        "Pid": 20352,
+        "Process": "our.mp3",
+        "__children": []
+    },
+    {
+        "Base": 1756014389,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\notice.dll",
+        "Pid": 43017,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2566311310,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\ahead.dll",
+        "Pid": 1985,
+        "Process": "health.png",
+        "__children": []
+    },
+    {
+        "Base": 3285212717,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\thing.dll",
+        "Pid": 23332,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2910498001,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\cut.dll",
+        "Pid": 63071,
+        "Process": "cold.flac",
+        "__children": []
+    },
+    {
+        "Base": 2092923770,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\fund.dll",
+        "Pid": 9085,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1070410998,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\next.dll",
+        "Pid": 60834,
+        "Process": "when.flac",
+        "__children": []
+    },
+    {
+        "Base": 2783489323,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\go.dll",
+        "Pid": 49451,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3083060622,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\difficult.dll",
+        "Pid": 48558,
+        "Process": "book.pptx",
+        "__children": []
+    },
+    {
+        "Base": 3442232730,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\campaign.dll",
+        "Pid": 1033,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3607287778,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\north.dll",
+        "Pid": 28895,
+        "Process": "heart.xlsx",
+        "__children": []
+    },
+    {
+        "Base": 1289672309,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\effort.dll",
+        "Pid": 62441,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1163550063,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\remember.dll",
+        "Pid": 18480,
+        "Process": "behind.numbers",
+        "__children": []
+    },
+    {
+        "Base": 2172838071,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\every.dll",
+        "Pid": 47924,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3728691744,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\fly.dll",
+        "Pid": 1097,
+        "Process": "condition.wav",
+        "__children": []
+    },
+    {
+        "Base": 1704552894,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\business.dll",
+        "Pid": 13774,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1418721118,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\build.dll",
+        "Pid": 49224,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1069874052,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\edge.dll",
+        "Pid": 60033,
+        "Process": "growth.flac",
+        "__children": []
+    },
+    {
+        "Base": 2250137765,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\light.dll",
+        "Pid": 18357,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3225672856,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\institution.dll",
+        "Pid": 13134,
+        "Process": "art.html",
+        "__children": []
+    },
+    {
+        "Base": 1394281464,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\everybody.dll",
+        "Pid": 31369,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3017330320,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\real.dll",
+        "Pid": 1557,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1695033404,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\indeed.dll",
+        "Pid": 28876,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3489362242,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\believe.dll",
+        "Pid": 15369,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1890194333,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\our.dll",
+        "Pid": 54173,
+        "Process": "teach.webm",
+        "__children": []
+    },
+    {
+        "Base": 2808963618,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\owner.dll",
+        "Pid": 29161,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3971334508,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\control.dll",
+        "Pid": 2182,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2431556656,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\reduce.dll",
+        "Pid": 39796,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1811221594,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\it.dll",
+        "Pid": 19311,
+        "Process": "clearly.css",
+        "__children": []
+    },
+    {
+        "Base": 3835711496,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\quickly.dll",
+        "Pid": 25315,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1131138080,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\media.dll",
+        "Pid": 55764,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3118186187,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\truth.dll",
+        "Pid": 60237,
+        "Process": "during.txt",
+        "__children": []
+    },
+    {
+        "Base": 1715454486,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\nation.dll",
+        "Pid": 24181,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1038717675,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\paper.dll",
+        "Pid": 15449,
+        "Process": "memory.tiff",
+        "__children": []
+    },
+    {
+        "Base": 3581376609,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\develop.dll",
+        "Pid": 27261,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1638653228,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\ready.dll",
+        "Pid": 10914,
+        "Process": "above.docx",
+        "__children": []
+    },
+    {
+        "Base": 2916619392,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\let.dll",
+        "Pid": 46529,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2336710990,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\sense.dll",
+        "Pid": 32745,
+        "Process": "drop.flac",
+        "__children": []
+    },
+    {
+        "Base": 2953882068,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\country.dll",
+        "Pid": 52814,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2431233899,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\decision.dll",
+        "Pid": 12774,
+        "Process": "great.mov",
+        "__children": []
+    },
+    {
+        "Base": 2559328620,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\over.dll",
+        "Pid": 7581,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2117107406,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\responsibility.dll",
+        "Pid": 12705,
+        "Process": "consumer.jpg",
+        "__children": []
+    },
+    {
+        "Base": 1016082932,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\involve.dll",
+        "Pid": 46330,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2377675591,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\discussion.dll",
+        "Pid": 52905,
+        "Process": "term.gif",
+        "__children": []
+    },
+    {
+        "Base": 2510096080,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\through.dll",
+        "Pid": 2121,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3528420864,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\both.dll",
+        "Pid": 61651,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3573297572,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\party.dll",
+        "Pid": 9774,
+        "Process": "who.bmp",
+        "__children": []
+    },
+    {
+        "Base": 2564014796,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\together.dll",
+        "Pid": 27235,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3349521140,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\treat.dll",
+        "Pid": 43520,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3983175052,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\everybody.dll",
+        "Pid": 14783,
+        "Process": "shake.flac",
+        "__children": []
+    },
+    {
+        "Base": 2193440913,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\product.dll",
+        "Pid": 22792,
+        "Process": "rundll32.exe",
+        "__children": []
+    }
+]

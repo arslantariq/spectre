@@ -1,0 +1,56 @@
+[
+    {
+        "Base": 4787899,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\\\Windows\\\\System32\\\\chrome.exe",
+        "Pid": 2752,
+        "Process": "chrome.exe"
+    },
+	{
+        "Base": 2503860,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\smss.exe",
+        "Pid": 3210,
+        "Process": "smss.exe"
+    },
+    {
+        "Base": 4480458,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\csrss.exe",
+        "Pid": 169,
+        "Process": "csrss.exe"
+    },
+    {
+        "Base": 7494882,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\explorer.exe",
+        "Pid": 2696,
+        "Process": "explorer.exe"
+    },
+    {
+        "Base": 8133887,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": false,
+        "MappedPath": "\\\\Windows\\\\System32\\\\csrss.exe",
+        "Pid": 986,
+        "Process": "csrss.exe"
+    },
+    {
+        "Base": 8387328,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\cmd.exe",
+        "Pid": 121,
+        "Process": "cmd.exe"
+    }
+]

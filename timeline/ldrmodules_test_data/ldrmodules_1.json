@@ -1,0 +1,57 @@
+[
+    {
+        "Base": 9998895,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\\\Windows\\\\System32\\\\smss.exe",
+        "Pid": 2893,
+        "Process": "smss.exe"
+    },
+    {
+        "Base": 1602195,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\\\Windows\\\\System32\\\\cmd.exe",
+        "Pid": 2724,
+        "Process": "cmd.exe"
+    },
+    {
+        "Base": 8148459,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\explorer.exe",
+        "Pid": 4576,
+        "Process": "explorer.exe"
+    },
+    {
+        "Base": 2227181,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\smss.exe",
+        "Pid": 381,
+        "Process": "smss.exe"
+    },
+    {
+        "Base": 3325232,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\chrome.exe",
+        "Pid": 492,
+        "Process": "chrome.exe"
+    }
+	,
+	{
+        "Base": 2574025,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\explorer.exe",
+        "Pid": 4571,
+        "Process": "explorer.exe"
+    }
+]

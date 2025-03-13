@@ -1,0 +1,52 @@
+[
+    {
+        "Data": "Value6",
+        "Hive Offset": 664440970474091,
+        "Key": "Subkey4",
+        "Last Write Time": "2024-10-13T19:38:51.026191+00:00",
+        "Name": "D",
+        "Type": "Value",
+        "Volatile": false,
+        "__children": []
+    },
+    {
+        "Data": "Value70",
+        "Hive Offset": 385734988708041,
+        "Key": "Subkey7",
+        "Last Write Time": "2024-10-13T19:38:51.026191+00:00",
+        "Name": "E",
+        "Type": "Key",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "Value96",
+        "Hive Offset": 412534032811087,
+        "Key": "Subkey1",
+        "Last Write Time": "2024-09-23T19:38:51.026191+00:00",
+        "Name": "C",
+        "Type": "Key",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "Value34",
+        "Hive Offset": 795884690008706,
+        "Key": "Subkey1",
+        "Last Write Time": "2024-09-26T19:38:51.026191+00:00",
+        "Name": "E",
+        "Type": "Key",
+        "Volatile": true,
+        "__children": []
+    },
+    {
+        "Data": "Value67",
+        "Hive Offset": 857115318592440,
+        "Key": "Subkey5",
+        "Last Write Time": "2024-10-14T19:38:51.026191+00:00",
+        "Name": "C",
+        "Type": "Key",
+        "Volatile": true,
+        "__children": []
+    }
+]

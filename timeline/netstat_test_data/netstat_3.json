@@ -1,0 +1,15 @@
+[
+    {
+        "Created": "2024-10-07T20:19:40.225228+00:00",
+        "ForeignAddr": "192.168.1.145",
+        "ForeignPort": 18221,
+        "LocalAddr": "10.0.2.97",
+        "LocalPort": 57894,
+        "Offset": 721009869200205,
+        "Owner": "smss.exe",
+        "PID": 4867,
+        "Proto": "TCPv6",
+        "State": "LISTENING",
+        "__children": []
+    }
+]

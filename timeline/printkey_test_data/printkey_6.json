@@ -1,0 +1,32 @@
+[
+    {
+        "Data": "Value27",
+        "Hive Offset": 511873383140598,
+        "Key": "Subkey1",
+        "Last Write Time": "2024-09-27T19:38:51.031500+00:00",
+        "Name": "B",
+        "Type": "Key",
+        "Volatile": false,
+        "__children": []
+    },
+    {
+        "Data": "Value43",
+        "Hive Offset": 392016369240271,
+        "Key": "Subkey9",
+        "Last Write Time": "2024-09-26T19:38:51.031500+00:00",
+        "Name": "A",
+        "Type": "Value",
+        "Volatile": false,
+        "__children": []
+    },
+    {
+        "Data": "Value25",
+        "Hive Offset": 942415696747822,
+        "Key": "Subkey6",
+        "Last Write Time": "2024-09-28T19:38:51.031500+00:00",
+        "Name": "E",
+        "Type": "Key",
+        "Volatile": false,
+        "__children": []
+    }
+]

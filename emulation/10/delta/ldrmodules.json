@@ -1,0 +1,182 @@
+[
+    {
+        "Base": 2558477007,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\per.dll",
+        "Pid": 10426,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2577174641,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\work.dll",
+        "Pid": 10426,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3799491929,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\work.dll",
+        "Pid": 43542,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3308300458,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\today.dll",
+        "Pid": 18995,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 3344762891,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\price.dll",
+        "Pid": 26484,
+        "Process": "million.jpg",
+        "__children": []
+    },
+    {
+        "Base": 3534730206,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\skin.dll",
+        "Pid": 2500,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1749802488,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\population.dll",
+        "Pid": 8147,
+        "Process": "shake.png",
+        "__children": []
+    },
+    {
+        "Base": 3961585815,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\early.dll",
+        "Pid": 45207,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1282752136,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\System32\\garden.dll",
+        "Pid": 9354,
+        "Process": "scientist.mov",
+        "__children": []
+    },
+    {
+        "Base": 2202539899,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\home.dll",
+        "Pid": 27238,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2132831948,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": false,
+        "MappedPath": "\\Windows\\SysWOW64\\color.dll",
+        "Pid": 54381,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2887505673,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\campaign.dll",
+        "Pid": 14968,
+        "Process": "sometimes.mp4",
+        "__children": []
+    },
+    {
+        "Base": 1654833816,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\story.dll",
+        "Pid": 25567,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 2212389133,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\family.dll",
+        "Pid": 29176,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1089450209,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\reason.dll",
+        "Pid": 40798,
+        "Process": "together.tiff",
+        "__children": []
+    },
+    {
+        "Base": 3464361869,
+        "InInit": true,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\Windows\\SysWOW64\\ahead.dll",
+        "Pid": 25922,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1502505487,
+        "InInit": false,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\herself.dll",
+        "Pid": 26287,
+        "Process": "rundll32.exe",
+        "__children": []
+    },
+    {
+        "Base": 1787592559,
+        "InInit": true,
+        "InLoad": false,
+        "InMem": true,
+        "MappedPath": "\\Windows\\System32\\its.dll",
+        "Pid": 51640,
+        "Process": "easy.tiff",
+        "__children": []
+    }
+]

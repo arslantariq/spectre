@@ -1,0 +1,15 @@
+[
+    {
+        "Created": "2024-09-25T09:41:40.226189+00:00",
+        "ForeignAddr": "192.168.1.62",
+        "ForeignPort": 33668,
+        "LocalAddr": "10.0.2.46",
+        "LocalPort": 62365,
+        "Offset": 696387096661026,
+        "Owner": "explorer.exe",
+        "PID": 4740,
+        "Proto": "TCPv6",
+        "State": "CLOSE_WAIT",
+        "__children": []
+    }
+]

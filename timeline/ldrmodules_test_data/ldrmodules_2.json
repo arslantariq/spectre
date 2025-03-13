@@ -1,0 +1,20 @@
+[
+    {
+        "Base": 2574020,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\explorer.exe",
+        "Pid": 4571,
+        "Process": "explorer.exe"
+    },
+	{
+        "Base": 3325232,
+        "InInit": false,
+        "InLoad": true,
+        "InMem": true,
+        "MappedPath": "\\\\Windows\\\\System32\\\\chrome.exe",
+        "Pid": 492,
+        "Process": "chrome.exe"
+    }
+]

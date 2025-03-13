@@ -1,0 +1,12 @@
+[
+    {
+        "Data": "Value85",
+        "Hive Offset": 801472542387768,
+        "Key": "Subkey2",
+        "Last Write Time": "2024-10-04T19:38:51.033606+00:00",
+        "Name": "E",
+        "Type": "Value",
+        "Volatile": true,
+        "__children": []
+    }
+]
