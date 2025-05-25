@@ -42,6 +42,9 @@ Follow the SPECTRE_Guide.pdf and use example programs to get started with system
 ## SPECTRE Architecture
 <img src="./diagrams/architecture.svg">
 
+## SPECTRE Detection, Response and Investigation Diagram
+<img src="./diagrams/spectre_context.png">
+
 ## SPECTRE Modules
 
 ### 1. **Memory Module**
@@ -93,6 +96,8 @@ This emulation functionality is particularly valuable for benchmarking detection
 - `DeltaAnalysis` provides visualization of changes.
 
 #### Delta Analysis Plot Overview
+<img src="./diagrams/Delta_Analysis.png">
+
 | Key Features                         | Benefits / Insights |
 |--------------------------------------|----------------------|
 | **Categorization of Updates**        | Identifies new, removed, updated, or unchanged processes and connections—useful for detecting sudden behavior changes or zero-day attacks. |
@@ -117,6 +122,8 @@ SPECTRE’s visualization suite enhances the speed and precision of threat detec
 - Timeline Correlation Charts
 
 #### 🧠 Memory Analysis Plot Overview
+<img src="./diagrams/Memory_Dump_Detailed_Statistics.png">
+
 | Key Features                  | Benefits / Insights |
 |------------------------------|----------------------|
 | **Process Categorization**   | Pie charts showing parent vs. child and running vs. closed processes help detect anomalies such as an unusual number of child processes—often a sign of process injection attacks. |
@@ -125,6 +132,8 @@ SPECTRE’s visualization suite enhances the speed and precision of threat detec
 | **Top Processes by DLLs and Threads** | Pinpoints processes with unusual thread or DLL counts, which may indicate thread hijacking or DLL injection. |
 
 #### ⚠️ Anomaly Detection Plot Overview
+<img src="./diagrams/Anomaly_Analysis.png">
+
 | Feature (Subplot)                             | Cybersecurity Benefit / Insight |
 |----------------------------------------------|----------------------------------|
 | **Unsafe Extensions Analysis**               | Detects high-risk executable types that may be associated with malware. |
@@ -138,6 +147,7 @@ SPECTRE’s visualization suite enhances the speed and precision of threat detec
 | **IP Categorization and Foreign IP Analysis** | Classifies IPs and flags foreign or malicious connections for further investigation. |
 
 #### 📊 Process Scatter Plot Overview
+<img src="./diagrams/scatter_plot.png">
 
 | Feature                        | Benefits / Insights |
 |--------------------------------|----------------------|
@@ -151,7 +161,12 @@ SPECTRE’s visualization suite enhances the speed and precision of threat detec
 | **Color-coded Classes**       | Makes it easier to differentiate between benign and malicious processes. |
 | **Process Density Representation** | Highlights areas of elevated system activity for forensic focus. |
 
-#### ⏱️ Timeline Plot Overview
+#### ⏱️ Timeline Plots Overview
+<img src="./diagrams/plot.png">
+<img src="./diagrams/tl_processes.png">
+<img src="./diagrams/tl_connections.png">
+<img src="./diagrams/tl_modules.png">
+<img src="./diagrams/tl_keys.png">
 
 | Plot Type                          | Key Features                  | Benefits / Insights |
 |-----------------------------------|-------------------------------|----------------------|
@@ -159,8 +174,6 @@ SPECTRE’s visualization suite enhances the speed and precision of threat detec
 |                                   | Top Processes Per Timeslot    | Visualizes dominant processes over time, helping highlight persistent or anomalous behavior. |
 |                                   | Temporal Correlations         | Links process and connection data for end-to-end incident tracking. |
 | **Multi Snapshot Timeline**       | Entity Change Tracking        | Compares system states across multiple time points to spot emerging threats or persistent changes. |
-
-
 
 ### 5. **🚨 Anomaly Detection Module**
 - Detects malicious activities via IP analysis and credential dumping detection.
@@ -254,7 +267,7 @@ Together, these features enable Red, Blue, and Purple Teams to coordinate effort
 
 ## Documentation & Support
 - **Detailed Documentation**: Refer to the SPECTRE_Guide.pdf for in-depth explanations of each module.
-- **Support**: For issues, contact the support team.
+- **Support**: For issues, contact at sarslantariq@gmail.com.
 - **Future Updates**: Regular updates will enhance features and maintain compatibility.
 
 ## License
